@@ -9,4 +9,4 @@ The <em>Chameleon Mugs</em> was presented at <a href="http://itp.nyu.edu/shows/w
 
 For more information, please visit the <a href="http://itp.nyu.edu/~jhl589/myblog/chameleon-mugs" target="_blank">Chameleon Mugs</a><a href="http://itp.nyu.edu/~jhl589/myblog/chameleon-mugs" target="_blank"> page</a>.
 
-- Processing, reacTIVision, TUIO, PS3 Eye Camera, Bluetooth, Dandelion library, Arduino, Rhino, CNC Router
+\* Processing, reacTIVision, TUIO, PS3 Eye Camera, Bluetooth, Dandelion library, Arduino, Rhino, CNC Router
